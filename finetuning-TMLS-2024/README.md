@@ -26,9 +26,9 @@ pip install transformers datasets accelerate evaluate bitsandbytes peft huggingf
 ```
 
 ## Files
-- Slides: 
-- Notebook: []
-<a target="_blank" href="https://colab.research.google.com/github/">
+- Slides: [TMLS 2024 - Getting Started with Generative Text and Fine-tuning LLMs in HuggingFace.pdf](https://github.com/nlpfromscratch/workshops/blob/master/finetuning-TMLS-2024/TMLS%202024%20-%20Getting%20Started%20with%20Generative%20Text%20and%20Fine-tuning%20LLMs%20in%20HuggingFace.pdf)
+- Notebook: [TMLS 2024-Generative Text and Fine-tuning LLMs in Hugging Face.ipynb](https://github.com/nlpfromscratch/workshops/blob/master/finetuning-TMLS-2024/TMLS%202024%20-%20Generative%20Text%20and%20Fine-tuning%20LLMs%20in%20Hugging%20Face.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/workshops/blob/master/finetuning-TMLS-2024/TMLS2024-GenerativeTextandFine-tuningLLMsinHuggingFace.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
