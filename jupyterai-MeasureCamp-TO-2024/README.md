@@ -42,8 +42,8 @@ jupyter lab
 ```
 
 ## Files
-- Slides: []()
-- Notebook: [)
+- Slides 📽️: [MeasureCamp TO 2024 - Analyzing Digital Analytics Data with GenAI.pdf](https://github.com/nlpfromscratch/workshops/blob/master/jupyterai-MeasureCamp-TO-2024/MeasureCamp%20TO%202024%20-%20Analyzing%20Digital%20Analytics%20Data%20with%20GenAI.pdf)
+- Notebook ✍️: [Measurecamp_TO_2024-Analyzing_Digital_Analytics_Data_with_GenAI.ipynb](https://github.com/nlpfromscratch/workshops/blob/master/jupyterai-MeasureCamp-TO-2024/Measurecamp_TO_2024-Analyzing_Digital_Analytics_Data_with_GenAI.ipynb)
 
 ## Authors
 [Myles Harrison](https://www.mylesharrison.com), AI Consultant & Trainer at [NLP from scratch](https://www.nlpfromscratch.com)
