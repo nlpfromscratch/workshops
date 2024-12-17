@@ -37,7 +37,11 @@ pip install transformers diffusers accelerate
 ## Files
 - Slides: [Hands-on Hugging Face - 2024-12-14.pdf](Hands-on%20Hugging%20Face%20-%202024-12-14.pdf)
 - Notebook: [Hands_on_Hugging_Face_2024_12_14.ipynb](Hands_on_Hugging_Face_2024_12_14.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/workshops/blob/master/hands-on-huggingface-2024/Hands_on_Hugging_Face_2024_12_14.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- Solution Notebook: [Hugging_Face_2024_12_14_Solutions.ipynb](Hugging_Face_2024_12_14_Solutions.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/nlpfromscratch/workshops/blob/master/hands-on-huggingface-2024/Hugging_Face_2024_12_14_Solutions.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
+
 </a>
 
 
